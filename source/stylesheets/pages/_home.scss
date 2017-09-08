@@ -22,9 +22,13 @@
 #title {
 	background: $gray;
 	opacity: 0.6;
-	padding: 40px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 400px;
 	margin: 0 auto;
-	width: 40%;
+
 }
 
 a:hover {
@@ -37,4 +41,12 @@ a:hover {
 	padding: 40px;
 	box-shadow: 1px 1px 3px rgb(213, 210, 210);
 	margin: 10px;
+}
+
+.projects {
+	background: white;
+	padding: 30px;
+	box-shadow: 1px 1px 3px rgb(213, 210, 210);
+	margin: 20px;
+	
 }
